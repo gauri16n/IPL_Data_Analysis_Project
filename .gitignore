@@ -1,0 +1,11 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data files (Avoid pushing large datasets to GitHub)
+*.csv
+
+# OS generated files
+.DS_Store
